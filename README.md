@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devidutta-learn
-- 👀 I’m interested in natural language processing, computer vision, and deep learning
+- 👀 I’m particularly interested in natural language processing, computer vision, and deep learning
 - 🌱 I’m currently learning deep learning
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/deviduttanayak18/)
 - 😄 Pronouns: he

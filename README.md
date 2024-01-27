@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devidutta-learn
+- 👋 Hi, I’m Devidutta Nayak
 - 👀 I’m particularly interested in natural language processing, computer vision, and deep learning
 - 🌱 I’m currently learning deep learning
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/deviduttanayak18/)

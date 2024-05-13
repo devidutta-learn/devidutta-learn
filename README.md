@@ -12,13 +12,13 @@ Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorfFow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorfFow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/Pycharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=F9AB00&color=F9AB00)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

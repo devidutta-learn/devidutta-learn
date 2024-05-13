@@ -1,13 +1,15 @@
+![MasterHead](https://github.com/SemicolonML/SemicolonML/blob/007a15e5634f71d65a17a9e4387b1c91de44924f/Untitled%20design%20(1).gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devidutta+Nayak!;+ML+Enthusiast+😇;" />
+
 # Hello, World! 👋
 Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning Enthusiast.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devidutta-learn)
 ## About Me ℹ️
-- 🌱 I’m currently learning Machine Learning/ Data Science.
-- 👀 I’m particularly interested in natural language processing, computer vision, and deep learning
+- 👀 I’m interested in natural language processing, computer vision, and deep learning
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/deviduttanayak18/) & [devidutta.work@gmail.com](devidutta.work@gmail.com)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Momo here! Did you know that I can eat my weight in momos in a single sitting? They're not just a food to me; they're a way of life! 🥟❤️.
 ## Languages and Tools 🛠️
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)

@@ -1,5 +1,5 @@
 # Hello, World! 👋
-Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning Enthusiast from Bhubaneshwar(city of temples).
+Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning Enthusiast.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devidutta-learn)
 ## About Me ℹ️

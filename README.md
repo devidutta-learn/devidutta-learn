@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning
 ![Profile Views](https://komarev.com/ghpvc/?username=devidutta-learn)
 ## About Me ℹ️
 - 👀 I’m interested in natural language processing, computer vision, and deep learning
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/deviduttanayak18/) & <a href=mailto:devidutta.work+gh1@gmail.com>devidutta.work+gh2@gmail.com</a>
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/deviduttanayak18/) & <a href=mailto:devidutta.work+gh1@gmail.com>devidutta.work@gmail.com</a>
 - 😄 Pronouns: He/Him.
 ## Languages and Tools 🛠️
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)

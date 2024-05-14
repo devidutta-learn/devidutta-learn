@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/Pycharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=F9AB00&color=F9AB00)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)

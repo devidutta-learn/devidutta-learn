@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning
 - 😄 Pronouns: He/Him.
 ## Languages and Tools 🛠️
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikitlearn](https://img.shields.io/badge/Scikitlearn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=flat-square&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white)

@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/SemicolonML/SemicolonML/blob/007a15e5634f71d65a17a9e4387b1c91de44924f/Untitled%20design%20(1).gif)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devidutta+Nayak!;+AI/ML+Enthusiast+😇;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devidutta!;+AI/ML+Enthusiast+😇;" />
 
 ## Hello, World! 👋
 Welcome to my GitHub profile! I'm Devidutta Nayak, a passionate Machine Learning Enthusiast.
